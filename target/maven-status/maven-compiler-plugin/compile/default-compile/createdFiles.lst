@@ -1,0 +1,3 @@
+com\example\adviceapi\controller\AdviceController.class
+com\example\adviceapi\service\AdviceService.class
+com\example\adviceapi\AdviceApiApplication.class
